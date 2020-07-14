@@ -13,7 +13,7 @@ margin-right: auto;
     text-align: center
 }
 
-.carousel {
+.carousel, .d-block {
     margin-left: 10%;
     margin-right: 10%;
 }
