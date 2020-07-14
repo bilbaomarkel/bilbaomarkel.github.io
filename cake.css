@@ -12,3 +12,7 @@ margin-right: auto;
 .form-check {
     text-align: center
 }
+
+.carousel-inner > div {
+    height: 400px;
+}
