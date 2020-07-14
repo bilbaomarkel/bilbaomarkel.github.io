@@ -14,8 +14,9 @@ margin-right: auto;
 }
 
 .carousel {
-    margin-left: 10%;
-    margin-right: 10%;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .d-block {
