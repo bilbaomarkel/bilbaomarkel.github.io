@@ -1,6 +1,12 @@
 h1 {
-color: violet;
+color: darkviolet;
 text-align: center;
+}
+
+p {
+    color:darkviolet;
+    font-family: Arial;
+    margin-left: 10%;
 }
 
 img {
