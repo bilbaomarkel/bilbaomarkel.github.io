@@ -12,3 +12,10 @@ margin-right: auto;
 .form-check {
     text-align: center
 }
+
+.carousel-item{
+    height: 200px;
+} 
+.carousel-item img{
+    height: 200px;
+}
