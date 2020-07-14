@@ -3,9 +3,10 @@ color: darkviolet;
 text-align: center;
 }
 
-p {
+p.intro {
     color:darkviolet;
     font-family: Arial;
+    font-size: 20px;
     margin-left: 10%;
 }
 
