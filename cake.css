@@ -13,7 +13,16 @@ margin-right: auto;
     text-align: center
 }
 
-.carousel, .d-block {
+.carousel {
     margin-left: 10%;
     margin-right: 10%;
+}
+
+.d-block {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 90%;
+    margin: 20px auto;
 }
